@@ -1,0 +1,124 @@
+D:\New folder\Sample_SignIn\Sample_SignIn\bin\Debug\Sample_SignIn.exe.config
+D:\New folder\Sample_SignIn\Sample_SignIn\bin\Debug\Sample_SignIn.exe
+D:\New folder\Sample_SignIn\Sample_SignIn\bin\Debug\Sample_SignIn.pdb
+D:\New folder\Sample_SignIn\Sample_SignIn\obj\Debug\Sample_SignIn.csprojResolveAssemblyReference.cache
+D:\New folder\Sample_SignIn\Sample_SignIn\obj\Debug\Sample_SignIn.Properties.Resources.resources
+D:\New folder\Sample_SignIn\Sample_SignIn\obj\Debug\Sample_SignIn.csproj.GenerateResource.Cache
+D:\New folder\Sample_SignIn\Sample_SignIn\obj\Debug\Sample_SignIn.exe
+D:\New folder\Sample_SignIn\Sample_SignIn\obj\Debug\Sample_SignIn.pdb
+D:\New folder\Sample_SignIn\Sample_SignIn\obj\Debug\Sample_SignIn.sign_up.resources
+D:\New folder\Sample_SignIn\Sample_SignIn\obj\Debug\Sample_SignIn.login.resources
+D:\New folder\Sample_SignIn\Sample_SignIn\obj\Debug\Sample_SignIn.main_form.resources
+D:\CODE_LTM_PROJECT\Sample_SignIn\Sample_SignIn\bin\Debug\Sample_SignIn.exe.config
+D:\CODE_LTM_PROJECT\Sample_SignIn\Sample_SignIn\obj\Debug\Sample_SignIn.exe
+D:\CODE_LTM_PROJECT\Sample_SignIn\Sample_SignIn\obj\Debug\Sample_SignIn.pdb
+D:\CODE_LTM_PROJECT\Sample_SignIn\Sample_SignIn\bin\Debug\Sample_SignIn.exe
+D:\CODE_LTM_PROJECT\Sample_SignIn\Sample_SignIn\bin\Debug\Sample_SignIn.pdb
+D:\CODE_LTM_PROJECT\Sample_SignIn\Sample_SignIn\obj\Debug\Sample_SignIn.csprojResolveAssemblyReference.cache
+D:\CODE_LTM_PROJECT\Sample_SignIn\Sample_SignIn\obj\Debug\Sample_SignIn.main_form.resources
+D:\CODE_LTM_PROJECT\Sample_SignIn\Sample_SignIn\obj\Debug\Sample_SignIn.sign_up.resources
+D:\CODE_LTM_PROJECT\Sample_SignIn\Sample_SignIn\obj\Debug\Sample_SignIn.login.resources
+D:\CODE_LTM_PROJECT\Sample_SignIn\Sample_SignIn\obj\Debug\Sample_SignIn.Properties.Resources.resources
+D:\CODE_LTM_PROJECT\Sample_SignIn\Sample_SignIn\obj\Debug\Sample_SignIn.csproj.GenerateResource.Cache
+D:\CODE_LTM_PROJECT\Sample_SignIn\Sample_SignIn\obj\Debug\Sample_SignIn.game.resources
+E:\2001140259_VoTinhThuong_Tuan8\Client\Sample_SignIn\bin\Debug\Sample_SignIn.exe.config
+E:\2001140259_VoTinhThuong_Tuan8\Client\Sample_SignIn\obj\Debug\Sample_SignIn.exe
+E:\2001140259_VoTinhThuong_Tuan8\Client\Sample_SignIn\obj\Debug\Sample_SignIn.pdb
+E:\2001140259_VoTinhThuong_Tuan8\Client\Sample_SignIn\bin\Debug\Sample_SignIn.exe
+E:\2001140259_VoTinhThuong_Tuan8\Client\Sample_SignIn\bin\Debug\Sample_SignIn.pdb
+E:\2001140259_VoTinhThuong_Tuan8\Client\Sample_SignIn\obj\Debug\Sample_SignIn.csprojResolveAssemblyReference.cache
+E:\2001140259_VoTinhThuong_Tuan8\Client\Sample_SignIn\obj\Debug\Sample_SignIn.game.resources
+E:\2001140259_VoTinhThuong_Tuan8\Client\Sample_SignIn\obj\Debug\Sample_SignIn.main_form.resources
+E:\2001140259_VoTinhThuong_Tuan8\Client\Sample_SignIn\obj\Debug\Sample_SignIn.sign_up.resources
+E:\2001140259_VoTinhThuong_Tuan8\Client\Sample_SignIn\obj\Debug\Sample_SignIn.login.resources
+E:\2001140259_VoTinhThuong_Tuan8\Client\Sample_SignIn\obj\Debug\Sample_SignIn.Properties.Resources.resources
+E:\2001140259_VoTinhThuong_Tuan8\Client\Sample_SignIn\obj\Debug\Sample_SignIn.csproj.GenerateResource.Cache
+E:\2001140259_VoTinhThuong_Tuan8\Client\Sample_SignIn\obj\Debug\Sample_SignIn.First_Information.resources
+E:\2001140259_VoTinhThuong_Tuan8\2001140259_VoTinhThuong_Tuan8\Client\Sample_SignIn\bin\Debug\Sample_SignIn.exe.config
+E:\2001140259_VoTinhThuong_Tuan8\2001140259_VoTinhThuong_Tuan8\Client\Sample_SignIn\obj\Debug\Sample_SignIn.exe
+E:\2001140259_VoTinhThuong_Tuan8\2001140259_VoTinhThuong_Tuan8\Client\Sample_SignIn\obj\Debug\Sample_SignIn.pdb
+E:\2001140259_VoTinhThuong_Tuan8\2001140259_VoTinhThuong_Tuan8\Client\Sample_SignIn\bin\Debug\Sample_SignIn.exe
+E:\2001140259_VoTinhThuong_Tuan8\2001140259_VoTinhThuong_Tuan8\Client\Sample_SignIn\bin\Debug\Sample_SignIn.pdb
+E:\2001140259_VoTinhThuong_Tuan8\2001140259_VoTinhThuong_Tuan8\Client\Sample_SignIn\obj\Debug\Sample_SignIn.csprojResolveAssemblyReference.cache
+E:\2001140259_VoTinhThuong_Tuan8\2001140259_VoTinhThuong_Tuan8\Client\Sample_SignIn\obj\Debug\Sample_SignIn.First_Information.resources
+E:\2001140259_VoTinhThuong_Tuan8\2001140259_VoTinhThuong_Tuan8\Client\Sample_SignIn\obj\Debug\Sample_SignIn.game.resources
+E:\2001140259_VoTinhThuong_Tuan8\2001140259_VoTinhThuong_Tuan8\Client\Sample_SignIn\obj\Debug\Sample_SignIn.main_form.resources
+E:\2001140259_VoTinhThuong_Tuan8\2001140259_VoTinhThuong_Tuan8\Client\Sample_SignIn\obj\Debug\Sample_SignIn.sign_up.resources
+E:\2001140259_VoTinhThuong_Tuan8\2001140259_VoTinhThuong_Tuan8\Client\Sample_SignIn\obj\Debug\Sample_SignIn.login.resources
+E:\2001140259_VoTinhThuong_Tuan8\2001140259_VoTinhThuong_Tuan8\Client\Sample_SignIn\obj\Debug\Sample_SignIn.Properties.Resources.resources
+E:\2001140259_VoTinhThuong_Tuan8\2001140259_VoTinhThuong_Tuan8\Client\Sample_SignIn\obj\Debug\Sample_SignIn.csproj.GenerateResource.Cache
+E:\Lập Trình Mạng\New folder\20_11_2017\Client\Sample_SignIn\bin\Debug\Sample_SignIn.exe.config
+E:\Lập Trình Mạng\New folder\20_11_2017\Client\Sample_SignIn\obj\Debug\Sample_SignIn.exe
+E:\Lập Trình Mạng\New folder\20_11_2017\Client\Sample_SignIn\obj\Debug\Sample_SignIn.pdb
+E:\Lập Trình Mạng\New folder\20_11_2017\Client\Sample_SignIn\bin\Debug\Sample_SignIn.exe
+E:\Lập Trình Mạng\New folder\20_11_2017\Client\Sample_SignIn\bin\Debug\Sample_SignIn.pdb
+E:\Lập Trình Mạng\New folder\20_11_2017\Client\Sample_SignIn\bin\Debug\mscorlib.dll
+E:\Lập Trình Mạng\New folder\20_11_2017\Client\Sample_SignIn\bin\Debug\normidna.nlp
+E:\Lập Trình Mạng\New folder\20_11_2017\Client\Sample_SignIn\bin\Debug\normnfc.nlp
+E:\Lập Trình Mạng\New folder\20_11_2017\Client\Sample_SignIn\bin\Debug\normnfd.nlp
+E:\Lập Trình Mạng\New folder\20_11_2017\Client\Sample_SignIn\bin\Debug\normnfkc.nlp
+E:\Lập Trình Mạng\New folder\20_11_2017\Client\Sample_SignIn\bin\Debug\normnfkd.nlp
+E:\Lập Trình Mạng\New folder\20_11_2017\Client\Sample_SignIn\obj\Debug\Sample_SignIn.First_Information.resources
+E:\Lập Trình Mạng\New folder\20_11_2017\Client\Sample_SignIn\obj\Debug\Sample_SignIn.Forgot_Passwd.resources
+E:\Lập Trình Mạng\New folder\20_11_2017\Client\Sample_SignIn\obj\Debug\Sample_SignIn.game.resources
+E:\Lập Trình Mạng\New folder\20_11_2017\Client\Sample_SignIn\obj\Debug\Sample_SignIn.Information_Account.resources
+E:\Lập Trình Mạng\New folder\20_11_2017\Client\Sample_SignIn\obj\Debug\Sample_SignIn.Login_Change_Passwd.resources
+E:\Lập Trình Mạng\New folder\20_11_2017\Client\Sample_SignIn\obj\Debug\Sample_SignIn.main_form.resources
+E:\Lập Trình Mạng\New folder\20_11_2017\Client\Sample_SignIn\obj\Debug\Sample_SignIn.sign_up.resources
+E:\Lập Trình Mạng\New folder\20_11_2017\Client\Sample_SignIn\obj\Debug\Sample_SignIn.login.resources
+E:\Lập Trình Mạng\New folder\20_11_2017\Client\Sample_SignIn\obj\Debug\Sample_SignIn.Properties.Resources.resources
+E:\Lập Trình Mạng\New folder\20_11_2017\Client\Sample_SignIn\obj\Debug\Sample_SignIn.csproj.GenerateResource.Cache
+E:\Lập Trình Mạng\New folder\20_11_2017\Client\Sample_SignIn\obj\Debug\Sample_SignIn.csprojResolveAssemblyReference.cache
+C:\Users\MINHTHUONG\Desktop\20_11_2017_fix\20_11_2017_fix\Client\Sample_SignIn\bin\Debug\Sample_SignIn.exe.config
+C:\Users\MINHTHUONG\Desktop\20_11_2017_fix\20_11_2017_fix\Client\Sample_SignIn\obj\Debug\Sample_SignIn.exe
+C:\Users\MINHTHUONG\Desktop\20_11_2017_fix\20_11_2017_fix\Client\Sample_SignIn\obj\Debug\Sample_SignIn.pdb
+C:\Users\MINHTHUONG\Desktop\20_11_2017_fix\20_11_2017_fix\Client\Sample_SignIn\bin\Debug\Sample_SignIn.exe
+C:\Users\MINHTHUONG\Desktop\20_11_2017_fix\20_11_2017_fix\Client\Sample_SignIn\bin\Debug\Sample_SignIn.pdb
+C:\Users\MINHTHUONG\Desktop\20_11_2017_fix\20_11_2017_fix\Client\Sample_SignIn\obj\Debug\Sample_SignIn.csprojResolveAssemblyReference.cache
+C:\Users\MINHTHUONG\Desktop\20_11_2017_fix\20_11_2017_fix\Client\Sample_SignIn\obj\Debug\Sample_SignIn.First_Information.resources
+C:\Users\MINHTHUONG\Desktop\20_11_2017_fix\20_11_2017_fix\Client\Sample_SignIn\obj\Debug\Sample_SignIn.Forgot_Passwd.resources
+C:\Users\MINHTHUONG\Desktop\20_11_2017_fix\20_11_2017_fix\Client\Sample_SignIn\obj\Debug\Sample_SignIn.game.resources
+C:\Users\MINHTHUONG\Desktop\20_11_2017_fix\20_11_2017_fix\Client\Sample_SignIn\obj\Debug\Sample_SignIn.Information_Account.resources
+C:\Users\MINHTHUONG\Desktop\20_11_2017_fix\20_11_2017_fix\Client\Sample_SignIn\obj\Debug\Sample_SignIn.Login_Change_Passwd.resources
+C:\Users\MINHTHUONG\Desktop\20_11_2017_fix\20_11_2017_fix\Client\Sample_SignIn\obj\Debug\Sample_SignIn.main_form.resources
+C:\Users\MINHTHUONG\Desktop\20_11_2017_fix\20_11_2017_fix\Client\Sample_SignIn\obj\Debug\Sample_SignIn.sign_up.resources
+C:\Users\MINHTHUONG\Desktop\20_11_2017_fix\20_11_2017_fix\Client\Sample_SignIn\obj\Debug\Sample_SignIn.login.resources
+C:\Users\MINHTHUONG\Desktop\20_11_2017_fix\20_11_2017_fix\Client\Sample_SignIn\obj\Debug\Sample_SignIn.Properties.Resources.resources
+C:\Users\MINHTHUONG\Desktop\20_11_2017_fix\20_11_2017_fix\Client\Sample_SignIn\obj\Debug\Sample_SignIn.csproj.GenerateResource.Cache
+C:\Users\dnhidaiza\Desktop\Client\Sample_SignIn\bin\Debug\Sample_SignIn.exe.config
+C:\Users\dnhidaiza\Desktop\Client\Sample_SignIn\obj\Debug\Sample_SignIn.exe
+C:\Users\dnhidaiza\Desktop\Client\Sample_SignIn\obj\Debug\Sample_SignIn.pdb
+C:\Users\dnhidaiza\Desktop\Client\Sample_SignIn\bin\Debug\Sample_SignIn.exe
+C:\Users\dnhidaiza\Desktop\Client\Sample_SignIn\bin\Debug\Sample_SignIn.pdb
+C:\Users\dnhidaiza\Desktop\Client\Sample_SignIn\bin\Debug\mscorlib.dll
+C:\Users\dnhidaiza\Desktop\Client\Sample_SignIn\bin\Debug\normidna.nlp
+C:\Users\dnhidaiza\Desktop\Client\Sample_SignIn\bin\Debug\normnfc.nlp
+C:\Users\dnhidaiza\Desktop\Client\Sample_SignIn\bin\Debug\normnfd.nlp
+C:\Users\dnhidaiza\Desktop\Client\Sample_SignIn\bin\Debug\normnfkc.nlp
+C:\Users\dnhidaiza\Desktop\Client\Sample_SignIn\bin\Debug\normnfkd.nlp
+C:\Users\dnhidaiza\Desktop\Client\Sample_SignIn\obj\Debug\Sample_SignIn.First_Information.resources
+C:\Users\dnhidaiza\Desktop\Client\Sample_SignIn\obj\Debug\Sample_SignIn.Forgot_Passwd.resources
+C:\Users\dnhidaiza\Desktop\Client\Sample_SignIn\obj\Debug\Sample_SignIn.game.resources
+C:\Users\dnhidaiza\Desktop\Client\Sample_SignIn\obj\Debug\Sample_SignIn.Information_Account.resources
+C:\Users\dnhidaiza\Desktop\Client\Sample_SignIn\obj\Debug\Sample_SignIn.Login_Change_Passwd.resources
+C:\Users\dnhidaiza\Desktop\Client\Sample_SignIn\obj\Debug\Sample_SignIn.main_form.resources
+C:\Users\dnhidaiza\Desktop\Client\Sample_SignIn\obj\Debug\Sample_SignIn.sign_up.resources
+C:\Users\dnhidaiza\Desktop\Client\Sample_SignIn\obj\Debug\Sample_SignIn.login.resources
+C:\Users\dnhidaiza\Desktop\Client\Sample_SignIn\obj\Debug\Sample_SignIn.Properties.Resources.resources
+C:\Users\dnhidaiza\Desktop\Client\Sample_SignIn\obj\Debug\Sample_SignIn.csproj.GenerateResource.Cache
+C:\Users\MINHTHUONG\Desktop\Client\Client\Sample_SignIn\bin\Debug\Sample_SignIn.exe.config
+C:\Users\MINHTHUONG\Desktop\Client\Client\Sample_SignIn\obj\Debug\Sample_SignIn.exe
+C:\Users\MINHTHUONG\Desktop\Client\Client\Sample_SignIn\obj\Debug\Sample_SignIn.pdb
+C:\Users\MINHTHUONG\Desktop\Client\Client\Sample_SignIn\bin\Debug\Sample_SignIn.exe
+C:\Users\MINHTHUONG\Desktop\Client\Client\Sample_SignIn\bin\Debug\Sample_SignIn.pdb
+C:\Users\MINHTHUONG\Desktop\Client\Client\Sample_SignIn\obj\Debug\Sample_SignIn.First_Information.resources
+C:\Users\MINHTHUONG\Desktop\Client\Client\Sample_SignIn\obj\Debug\Sample_SignIn.Forgot_Passwd.resources
+C:\Users\MINHTHUONG\Desktop\Client\Client\Sample_SignIn\obj\Debug\Sample_SignIn.game.resources
+C:\Users\MINHTHUONG\Desktop\Client\Client\Sample_SignIn\obj\Debug\Sample_SignIn.Information_Account.resources
+C:\Users\MINHTHUONG\Desktop\Client\Client\Sample_SignIn\obj\Debug\Sample_SignIn.Login_Change_Passwd.resources
+C:\Users\MINHTHUONG\Desktop\Client\Client\Sample_SignIn\obj\Debug\Sample_SignIn.main_form.resources
+C:\Users\MINHTHUONG\Desktop\Client\Client\Sample_SignIn\obj\Debug\Sample_SignIn.sign_up.resources
+C:\Users\MINHTHUONG\Desktop\Client\Client\Sample_SignIn\obj\Debug\Sample_SignIn.login.resources
+C:\Users\MINHTHUONG\Desktop\Client\Client\Sample_SignIn\obj\Debug\Sample_SignIn.Properties.Resources.resources
+C:\Users\MINHTHUONG\Desktop\Client\Client\Sample_SignIn\obj\Debug\Sample_SignIn.csproj.GenerateResource.Cache
+C:\Users\MINHTHUONG\Desktop\Client\Client\Sample_SignIn\obj\Debug\Sample_SignIn.csprojResolveAssemblyReference.cache
